@@ -195,3 +195,24 @@ footer nav{
     margin: 0 auto;
     font-size: 20px;
 }
+
+.mb-3 {
+    width: 600px;
+    font-family: "Avenir", Times, sans-serif;
+}
+
+.contact {
+    margin: 0 0 0 75px;
+}
+
+#name {
+    padding: 0;
+}
+
+#sendbtn {
+    width: 100px;
+    background-color:  #E28647;
+    font-family: "Avenir", Times, sans-serif;
+    padding: 200px;
+}
+
